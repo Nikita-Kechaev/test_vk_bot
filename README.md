@@ -4,7 +4,7 @@
 
 ## Инструкции по развертыванию
 
-1. Скачайте репозиторий по ссылке <git@github.com:Nikita-Kechaev/test_vk_bot.git>
+1. Скачайте репозиторий по ссылке <https://github.com/Nikita-Kechaev/test_vk_bot.git>
 2. В корневой папке проекта создайте и активируйте виртуальное окружение:
     * python3 -m venv venv
     * source venv/bin/activate

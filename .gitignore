@@ -1,0 +1,4 @@
+*.env
+*product_db
+*venv
+*.vscode
